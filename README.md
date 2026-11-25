@@ -100,7 +100,7 @@ L'application est organisée autour de plusieurs microservices, chacun responsab
 
 **Technologies :** JavaFX, bibliothèque graphique JavaFX.
 
-### 2.7. Microservice Intégration GitHub et Génération Automatique (Miaomed Ali)
+### 2.7. Microservice Intégration GitHub et Génération Automatique (Ali)
 
 **Responsabilités :**
 
