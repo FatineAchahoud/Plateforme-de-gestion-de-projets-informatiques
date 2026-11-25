@@ -20,9 +20,10 @@
     <modules>
         <!-- modules here to unlock ila tcreea folder  -->
         <!-- <module>common</module> -->
-        <!-- <module>auth-service</module> -->
+        <module> auth-service </module>
         <!-- <module>gateway</module> -->
         <!-- <module>desktop-client</module> -->
+        <module>auth-service</module>
     </modules>
 
     <properties>
@@ -33,6 +34,7 @@
         <spring-cloud.version>2025.0.0</spring-cloud.version>
         <javafx.version>21.0.5</javafx.version>
         <jjwt.version>0.11.5</jjwt.version>
+        <lombok.version>1.18.42</lombok.version>
     </properties>
 
     <dependencyManagement>
